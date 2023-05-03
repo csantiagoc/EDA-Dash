@@ -1,0 +1,5 @@
+dash
+pandas==2.0.*
+wordcloud
+nltk
+dash-bootstrap-components
